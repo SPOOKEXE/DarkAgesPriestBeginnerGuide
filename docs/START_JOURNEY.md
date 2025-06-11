@@ -37,8 +37,6 @@ You can also pick up after others to get free additional cash.
 
 You can check your current level, experience and required experience to level in the info tab at the bottom of your screen.
 
-Grind this dungeon until your level 6.
-
-See the next section for selling dungeon loot.
+Grind this dungeon until your level 6. Sell loot and buy new equipment in the process.
 
 ## [RETURN TO README](../README.md)

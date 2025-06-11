@@ -13,6 +13,9 @@ The below are in chronological order, start from the top!
 
 [4. SELLING DUNGEON LOOT](docs/SELLING_DUNGEON_LOOT.md)
 
+[5. BUYING NEW EQUIPMENT](docs/BUY_EQUIPMENT.md)
+
+
 ## Additional Links
 
 - https://vorlof.com/
