@@ -6,8 +6,11 @@ This guide will get you started as a Priest in Dark Ages!
 The below are in chronological order, start from the top!
 
 [1. CLASS CHANGE](docs/CLASS_CHANGE.md)
+
 [2. BASIC OVERVIEW](docs/BASIC_OVERVIEW.md)
+
 [3. START YOUR JOURNEY](docs/START_JOURNEY.md)
+
 [4. SELLING DUNGEON LOOT](docs/SELLING_DUNGEON_LOOT.md)
 
 ## Additional Links
