@@ -9,7 +9,7 @@ If you have not already, get the class change found at the class change temple.
 
 See below:
 
-<img src="media/path_to_temple_of_choose.png" alt="Path To Temple of Choose" width="512"/></img>
+<img src="media/path_to_temple_of_choose.PNG" alt="Path To Temple of Choose" width="512"/></img>
 
 Map path to Temple of Choosing location. You can click the MAP icon in the bottom right of the game screen to open this menu.
 
