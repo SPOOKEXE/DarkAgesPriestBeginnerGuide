@@ -81,7 +81,11 @@ Loot in inventory after dragging it to the slot.
 
 You can also pick up after others to get free additional cash.
 
-Do this until your level 6 or your inventory is full.
+<img src="media/exp_note.PNG" alt="Check your EXP" width="512"/></img>
+
+You can check your current level, experience and required experience to level in the info tab at the bottom of your screen.
+
+Grind this dungeon until your level 6.
 
 # Additional Links
 
