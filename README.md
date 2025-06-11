@@ -59,7 +59,7 @@ Head to the dungeon marked on the map below:
 
 <img src="media/dungeon_map.PNG" alt="Dungeon Map Location" width="512"/></img>
 
-<img src="media/stairs.PNG" alt="Dungeon Stairs" width="512"/></img>
+<img src="media/stairs.PNG" alt="Dungeon Stairs" width="368"/></img>
 
 To begin the dungeon, walk down these stairs.
 
@@ -77,7 +77,7 @@ Mice drop loot.
 
 Loot in inventory after dragging it to the slot.
 
-<img src="media/variety_of_loot.PNG" alt="Additional Loot" width="512"/></img>
+<img src="media/variety_of_loot.PNG" alt="Additional Loot" width="368"/></img>
 
 You can also pick up after others to get free additional cash.
 
@@ -85,7 +85,25 @@ You can also pick up after others to get free additional cash.
 
 You can check your current level, experience and required experience to level in the info tab at the bottom of your screen.
 
-Grind this dungeon until your level 6.
+Grind this dungeon until your level 6. Also see below for selling dungeon loot.
+
+## Selling Loot
+
+Each vender buys different items. Some buy at better rates than others, so you'll have to investigate each shop to see whether they are buying your materials at the best price (if you want to get the max reward).
+
+<img src="media/black_witch_den.PNG" alt="Black Witch Den Top Right" width="512"/></img>
+
+For example, the black witch den shop at the top bought my spider eyes.
+
+<img src="media/spider_eye_black_witch_example.PNG" alt="Black Witch Den Sell Spider Eyes" width="512"/></img>
+
+Getting 500 coins for one spider eye, seems great!
+
+<img src="media/cian_potion_shop.PNG" alt="Cian Potion Shop" width="512"/></img>
+
+Cian next door in the potion shop bought my moldy bread and mold.
+
+You can walk around to each shop when you get different types of loot to see where you can sell it for the most!
 
 # Additional Links
 
@@ -94,3 +112,4 @@ Grind this dungeon until your level 6.
 - https://wanderlustdb.com/
 - https://nagisachanda.gitlab.io/guide-for-new-priests/
 - https://www.youtube.com/watch?v=FIFty-O4rOE
+- https://nagisachanda.gitlab.io/damage-received/main.htm
